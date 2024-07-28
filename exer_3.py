@@ -1,0 +1,21 @@
+
+vetor_1 = []
+vetor_2 = []
+
+for _ in range(10):
+    x = int(input('Digite os elementos:'))
+    vetor_1.append(x)
+
+indice = 0
+           
+for numero in vetor_1:
+
+    if indice % 2 == 0:
+        vetor_2.append(numero/2)
+    else:
+        vetor_2.append(numero*3)
+    indice += 1
+
+print(vetor_1)
+print(vetor_2)
+
