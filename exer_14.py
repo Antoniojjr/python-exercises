@@ -1,3 +1,10 @@
+"""
+14. Construa um programa que permita fazer um levantamento do estoque de vinhos de
+uma adega, tendo como dados de entrada tipos de vinho, sendo: “T” para tinto, “B” para
+branco e “R” para rosê. Quando o tipo de vinho for diferente dos apresentados acima,
+mostre a porcentagem de cada tipo de vinho sobre o total geral de vinhos. A quantidade de
+vinhos é desconhecida.
+"""
 
 v_tinto = 0
 v_branco = 0
