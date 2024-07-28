@@ -1,3 +1,7 @@
+"""
+8. Faça um programa que leia 100 números inteiros. Calcule e imprima a soma dos
+números pares e a soma dos números ímpares.
+"""
 
 vetor_par = []
 vetor_impar = []
