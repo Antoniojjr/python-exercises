@@ -1,3 +1,12 @@
+"""
+13. Uma loja utiliza o código “V” para transação à vista e “P” para transação à prazo. Faça
+um programa que receba o código e o valor das transações. Quando o código for diferente
+de “V” ou “P”, calcule e mostre:
+
+a. O valor das compras à vista;
+b. O valor das compras a prazo;
+c. O valor total das compras efetuadas.
+"""
 
 a_vista = []
 a_prazo = []
