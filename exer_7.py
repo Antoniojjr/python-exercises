@@ -1,3 +1,7 @@
+"""
+7. Dados dois vetores de tamanho N, faça uma função que diga se os mesmos possuem
+conteúdo igual.
+"""
 
 tamanho_vetor = int(input('Quantidade de elementos dos vetores: '))
 vetor_1 = []
